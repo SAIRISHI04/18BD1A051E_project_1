@@ -1,0 +1,82 @@
+Hospital collection
+{
+        "_id" : ObjectId("5f81d451a50f48f5dd12905b"),
+        "hId" : "H1",
+        "name" : "Apollo hospital",
+        "contact" : "040-132456"
+}
+{
+        "_id" : ObjectId("5f81d9c4a50f48f5dd12905c"),
+        "hId" : "H2",
+        "name" : "Care hospital",
+        "contact" : "040-6363636"
+}
+{
+        "_id" : ObjectId("5f81da1aa50f48f5dd12905d"),
+        "hId" : "H3",
+        "name" : "Rainbow hospital",
+        "contact" : "040-1234567"
+}
+{
+        "_id" : ObjectId("5f81da66a50f48f5dd12905e"),
+        "hId" : "H4",
+        "name" : "Gandhi hospital",
+        "contact" : "040-2345678"
+}
+ventilator collections
+{
+        "_id" : ObjectId("5f81de61a50f48f5dd12905f"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V5",
+        "status" : "occupied",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f81dea6a50f48f5dd129060"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V4",
+        "status" : "available",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f81defba50f48f5dd129061"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V5",
+        "status" : "available",
+        "name" : "Care hospital"
+}
+{
+        "_id" : ObjectId("5f81df47a50f48f5dd129062"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V4",
+        "status" : "occupied",
+        "name" : "Care hospital"
+}
+{
+        "_id" : ObjectId("5f81df8ea50f48f5dd129063"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V4",
+        "status" : "occupied",
+        "name" : "Rainbow hospital"
+}
+{
+        "_id" : ObjectId("5f81e12aa50f48f5dd129064"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V3",
+        "status" : "occupied",
+        "name" : "Rainbow hospital"
+}
+{
+        "_id" : ObjectId("5f81e193a50f48f5dd129065"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V3",
+        "status" : "available",
+        "name" : "Gandhi hospital"
+}
+{
+        "_id" : ObjectId("5f81e1d4a50f48f5dd129066"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V5",
+        "status" : "occupied",
+        "name" : "Gandhi hospital"
+}
